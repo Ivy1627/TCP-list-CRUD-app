@@ -1,0 +1,9 @@
+Jingxin Zhang
+
+The program uses a json file featuring a list of dicts as the database for the groceries shopping list.
+
+If a port is temporarily unavailable to use, change it in the config.ini file(Data in default section is used).
+
+The logging info will be stored in list.log for the usere to review automatically.
+
+The user is responsible to pay attention to the command. When in edit mode, the user is forced to complete an edit mode command if he or she has attempted it.
